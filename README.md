@@ -1,0 +1,2 @@
+# tecinfoii
+mi primer proyecto
